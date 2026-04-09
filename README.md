@@ -42,4 +42,5 @@ Kali Linux • Burp Suite • Nmap • Wireshark • Metasploit • Git
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Saurabhborka-726  
+- GitHub: https://github.com/Saurabh-726
+- LinkedIn: https://youtu.be/a_4MjV_-7Sw?si=5-hUSY8YuyPr8Udb
