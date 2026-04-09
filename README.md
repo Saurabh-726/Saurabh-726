@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh</h1>
 
-<!--
-**Saurabh-726/Saurabh-726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Web Developer | 🔐 Cybersecurity Learner | 🐞 Bug Bounty Hunter</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Driven by curiosity. Focused on mastering **Cybersecurity** and building real-world **security tools**.
+
+---
+
+## 🧠 About Me
+- 🔐 Passionate about **Ethical Hacking & Cybersecurity**
+- 🌐 Learning **Web Application Security**
+- 🐍 Building automation tools using **Python**
+- 🐧 Linux enthusiast & terminal lover
+
+---
+
+## ⚒️ Tools & Technologies
+- 🔍 Nmap, Netdiscover, Gobuster
+- 🐍 Python, Flask
+- 🌐 HTML, CSS, JavaScript
+- 🐧 Linux (Kali Linux)
+- 🛠️ Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 Port Scanner
+- Built using Python sockets
+- Scans open ports on target systems
+
+### 🕵️ Packet Sniffer
+- Captures network packets
+- Helps understand network traffic
+
+### 🌐 Web Vulnerability Scanner
+- Finds basic vulnerabilities (XSS, SQLi)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
