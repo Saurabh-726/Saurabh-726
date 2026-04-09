@@ -32,12 +32,12 @@ Kali Linux • Burp Suite • Nmap • Wireshark • Metasploit • Git
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Saurabhborkar-726&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-726&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=Saurabhborkar-726&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Saurabh-726&theme=radical)
 
 ---
 
