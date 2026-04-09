@@ -1,49 +1,87 @@
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
+Hi 👋, I'm Saurabh  
+💻 Web Developer | 🔐 Cybersecurity Learner | 🐞 Bug Bounty Hunter | 🐧 Linux Enthusiast  
 
-<h3 align="center">💻 Web Developer | 🔐 Cybersecurity Learner | 🐞 Bug Bounty Hunter</h3>
-
----
-
-🚀 Driven by curiosity. Focused on mastering **Cybersecurity** and building real-world **security tools**.
+Driven by curiosity. Focused on mastering cybersecurity and building real-world security tools.
 
 ---
 
 ## 🧠 About Me
-- 🔐 Passionate about **Ethical Hacking & Cybersecurity**
-- 🌐 Learning **Web Application Security**
-- 🐍 Building automation tools using **Python**
-- 🐧 Linux enthusiast & terminal lover
+🔐 Passionate about Cybersecurity & Ethical Hacking  
+🌐 Learning Web Application Security  
+🐍 Building automation tools using Python  
+🐧 Linux enthusiast and terminal user  
+🎯 Goal: Become a Professional Penetration Tester  
 
 ---
 
-## ⚒️ Tools & Technologies
-- 🔍 Nmap, Netdiscover, Gobuster
-- 🐍 Python, Flask
-- 🌐 HTML, CSS, JavaScript
-- 🐧 Linux (Kali Linux)
-- 🛠️ Git & GitHub
+## 🚀 Skills
+
+### 💻 Programming
+- Python  
+- Java  
+- C++  
+- JavaScript  
+- Bash  
+
+### 🔐 Cybersecurity
+- Web Security Testing  
+- Vulnerability Analysis  
+- Bug Bounty Hunting  
+- Network Scanning  
+
+### 🛠️ Tools
+- Kali Linux  
+- Burp Suite  
+- Nmap  
+- Wireshark  
+- Metasploit  
+- Git  
+
+---
+
+## 📊 GitHub Stats
+<!-- Add your stats link here -->
+
+## 🔥 GitHub Streak
+<!-- Add your streak stats -->
+
+## 🧰 Languages & Tools
+<!-- Add icons here -->
+
+---
+
+## 🧑‍💻 Learning Goals
+- Master Web Exploitation  
+- Study OSCP Methodology  
+- Build Open Source Security Tools  
+- Participate in CTF competitions  
+- Publish Security Writeups  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔎 Port Scanner
-- Built using Python sockets
-- Scans open ports on target systems
+### 🔐 Security Tools
+- Web Vulnerability Scanner  
+- Recon Automation Tool  
+- Payload Generator  
 
-### 🕵️ Packet Sniffer
-- Captures network packets
-- Helps understand network traffic
-
-### 🌐 Web Vulnerability Scanner
-- Finds basic vulnerabilities (XSS, SQLi)
+### 🌐 Web Applications
+- Secure Chat Application  
+- OTP Authentication System  
+- Cybersecurity Learning Platform  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 📈 Contribution Graph
+<!-- Add graph -->
+
+## 👀 Profile Views
+<!-- Add counter -->
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Saurabh-726  
+- LinkedIn: https://youtu.be/a_4MjV_-7Sw?si=5-hUSY8YuyPr8Udb  
+- Email: saurabhborkar726@gmail.com
